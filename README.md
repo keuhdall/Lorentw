@@ -1,2 +1,2 @@
-# Lorentz
-A Lorentz attractor made with processing
+# Lorenz
+A Lorenz attractor made with processing
